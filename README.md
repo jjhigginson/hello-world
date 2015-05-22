@@ -1,4 +1,4 @@
 # hello-world
 for learning github
 
-## Testing how this branch, change, commit sequence works!
+### Just testing how this branch, change, commit sequence works!
